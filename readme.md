@@ -8,7 +8,7 @@ First try doing GitHub
   <meta charset="utf-8">
  </head>
  <body>
-  <title>First Time Using GitHub with JavaScript</title>
+  <title>testFirst Time Using GitHub with JavaScript</title>
   <h1>GitHub x JavaScript</h1>
  </body>
 </html>
